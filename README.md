@@ -16,8 +16,8 @@ Mute is a mobile app designed to introduce users to new music tailored to their 
 ### App Evaluation
 
 - **Category:** Mute & Recommendation
-- **Mobile:** Available on both iOS and Android platforms
-- **Story:** Personalized and mood-based Mute
+- **Mobile:** Available on iOS
+- **Story:** Personalized music discovery
 - **Market:** Music enthusiasts, casual listeners, and those interested in exploring diverse music genres
 - **Habit:** Encourage daily or frequent use through updated recommendations
 - **Scope:** MVP focuses on personalized music recommendations, mood-based playlists, and user profiles
@@ -29,65 +29,63 @@ Mute is a mobile app designed to introduce users to new music tailored to their 
 **Required Must-have Stories**
 
 * Personalized Music Recommendations
-* Mood-Based Playlists
-* User Profile Management
+* Tending Music Recommendations
 
 **Optional Nice-to-have Stories**
 
 * Social Sharing of Favorite Tracks/Playlists
+* User Profile Management
 
 ### 2. Screen Archetypes
 
 - **Home Screen**
   * Display personalized music recommendations
   * Navigate to Search Screen
-  * Navigate to Profile Screen
+  * Navigate to Trending Screen
 
 - **Search Screen**
   * Enables users to search for artists, albums, or tracks
   * Navigate to Home Screen (to view recommendations based on search)
-  * Navigate to Playlist Screen (to add songs to playlists)
 
-- **Profile Screen**
-  * User profile with settings, listening history, and created playlists
+- **Trending Screen**
+  * Display trending music
+  * Navigate to Search Screen
   * Navigate to Home Screen
-  * Navigate to Playlist Screen (to view and manage playlists)
-
-- **Playlist Screen**
-  * Shows user-created playlists
-  * Navigate to Home Screen
-  * Navigate to Search Screen (to add more songs)
+ 
+-**Music Detail Screen**
+  * Song Details
+  * Song lyrics
 
 ### 3. Navigation
 
 **Tab Navigation** (Tab to Screen)
 
 * Home -> Home Screen
-* Search -> Search Screen
-* Profile -> Profile Screen
+* Search -> Search Screen        ->Song Detail Screen
+* Trending -> Trending Screen
 
 **Flow Navigation** (Screen to Screen)
 
 - [ ] Home Screen
   * Navigate to Search Screen
-  * Navigate to Profile Screen
+  * Navigate to Trending Screen
+  * Navigate to Song Detail Screen
   
 - [ ] Search Screen
   * Navigate to Home Screen
-  * Navigate to Playlist Screen
+  * Navigate to Trending Screen
+  * Navigate to Song Detail Screen
   
-- [ ] Profile Screen
+- [ ] Trending Screen
   * Navigate to Home Screen
-  * Navigate to Playlist Screen
+  * Navigate to Trending Screen
+  * Navigate to Song Detail Screen
 
 ## Wireframes
 
 [Add picture of your hand sketched wireframes in this section]
 <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
 
-### [BONUS] Digital Wireframes & Mockups
-
-### [BONUS] Interactive Prototype
 
 ## Schema 
 
