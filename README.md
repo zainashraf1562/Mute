@@ -15,12 +15,20 @@ Mute is a mobile app designed to introduce users to new music tailored to their 
 
 ### App Evaluation
 
-- **Category:** Mute & Recommendation
-- **Mobile:** Available on iOS
-- **Story:** Personalized music discovery
-- **Market:** Music enthusiasts, casual listeners, and those interested in exploring diverse music genres
-- **Habit:** Encourage daily or frequent use through updated recommendations
-- **Scope:** MVP focuses on personalized music recommendations, mood-based playlists, and user profiles
+- **Category:** Music Discovery & Recommendation
+- **Mobile:** Mobile-first approach ensures accessibility and real-time music recommendations. Users can instantly explore new tracks and playlists tailored to their mood.
+  
+- **Story:** Connects users with their favorite music genres and moods. Enables users to find new music that resonates with their personal preferences, creating a personalized music journey.
+  
+- **Market:** Targeted at music enthusiasts, casual listeners, and anyone interested in exploring diverse music genres. Potential for partnerships with music streaming services for monetization.
+  
+- **Habit:** Encourages users to explore and listen to new music daily. With personalized recommendations, users are motivated to engage frequently to discover new tracks and playlists.
+  
+- **Scope:** 
+  - **V1**: Focuses on personalized music recommendations and mood-based playlists. Users can create profiles to manage preferences and playlists.
+  - **V2**: Introduces social sharing features allowing users to share favorite tracks or playlists with friends.
+  - **V3**: Adds a collaborative playlist feature where users can create and share playlists with others.
+  - **V4**: Incorporates a community aspect with user reviews and ratings for tracks and playlists.
 
 ## Product Spec
 
