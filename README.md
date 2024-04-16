@@ -83,8 +83,8 @@ Mute is a mobile app designed to introduce users to new music tailored to their 
 
 ## Wireframes
 
-[Add picture of your hand sketched wireframes in this section]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+<img width="528" alt="Screenshot 2024-04-16 at 12 53 17 AM" src="https://github.com/zainashraf1562/Mute/assets/155921778/f11552b7-e5ae-416d-9797-1741acdd9b72">
+
 
 
 ## Schema 
